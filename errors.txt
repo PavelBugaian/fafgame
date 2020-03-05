@@ -2,9 +2,9 @@
 errors listed below, and try again.
 
 
-File "game/script.rpy", line 14: play requires a file
-    play starting_song.mp3
-                      ^
+File "game/script.rpy", line 184: play requires a file
+    play nightmare_song
+                       ^
 
 Ren'Py Version: Ren'Py 7.3.5.606
-Thu Mar  5 15:47:30 2020
+Fri Mar 06 00:52:06 2020
